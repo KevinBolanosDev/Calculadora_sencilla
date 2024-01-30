@@ -1,9 +1,12 @@
 body {
     padding: 0;
-    margin-top: 50px;
+    margin: 0;
     background: linear-gradient(to right, #00AAFF, #1e245f);
 }
 
+.container {
+    height: 100%;
+}
 .calculadora-grid {
     display: grid;
     justify-content: center;
